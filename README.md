@@ -1,4 +1,4 @@
-# **CenterPoint-Se**
+# **CenterPoint**
 ## **目录**
 [中文|[English](docs/README_en.md)]
 
